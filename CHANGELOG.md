@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+* Update rubocop from 1.82.1 to [1.88.2](https://github.com/rubocop/rubocop/releases/tag/v1.88.2)
+
 ## 1.53.0
 
 * Updates rubocop to [1.82.0](https://github.com/rubocop/rubocop/releases/tag/v1.82.0)
